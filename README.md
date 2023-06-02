@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Teresa</h1>
-<h3 align="center">A passionate frontend developer and artist from Chile.</h3>
+<h1 align="center">Hallo, I'm Teresa</h1>
+<h3 align="center">A passionate front-end developer, artist and skateboarder from Chile.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
