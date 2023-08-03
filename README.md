@@ -21,9 +21,6 @@ I'm a passionate front-end developer, artist, and skateboarder from Chile. I lov
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=T-Barrios&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=T-Barrios&icon=0&color=0)](https://visitcount.itsvg.in)
 
